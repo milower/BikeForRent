@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BikeForRent</string>
+    <string name="sign">Sign Up</string>
+    <string name="signin">Sign IN</string>
+
+    <string name="id_card">หมายเลขบัตรประชาชน</string>
+    <string name="password">Password</string>
 </resources>
